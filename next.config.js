@@ -6,7 +6,7 @@ const nextConfig = {
       config.resolve.fallback ={
         "fs":false,
         "net":false,
-        "tls":flase
+        "tls":false
       }
     }
     return config
